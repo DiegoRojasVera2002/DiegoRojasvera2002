@@ -12,22 +12,19 @@
 
 ---
 
+<h2>AI Engineer obsessed with building systems that actually work in the real world — multi-agent pipelines, RAG architectures, and LLM inference at scale. Google TensorFlow Developer certified. I contribute to open source because I genuinely believe software built in public moves faster and breaks less. When I'm not coding I'm playing chess or grinding DSA problems. Currently based in Lima, Peru 🇵🇪</h2>
+
+---
+
 ## `$ whoami`
 
 <br>
 
 ### 📍 Lima, Peru &nbsp;🇵🇪
-### 💼 AI Engineer — Multi-agent systems · RAG · LLM inference
+### 💼 AI Engineer @ Indra — Multi-agent · RAG · LLM inference
 ### 💻 Python · TypeScript · Rust · C++
-### 🐧 Fedora Linux &nbsp;·&nbsp; Open Source enthusiast
-### 🚀 Currently building scalable AI-powered systems @ Indra
-### ♟️ Chess player &nbsp;·&nbsp; DSA nerd &nbsp;·&nbsp; ☕ Coffee intake: `Infinity`
-
-<br>
-
-> Passionate about AI, Computer Science, and open source. I believe the best way to learn is to build in public —
-> most of my side projects live here. Certified **Google TensorFlow Developer** and active contributor to the ML
-> community in Latin America as founder of **TensorFlow User Group Lima**.
+### 🐧 Fedora Linux &nbsp;·&nbsp; Open Source contributor
+### ♟️ Chess &nbsp;·&nbsp; DSA &nbsp;·&nbsp; ☕ `Infinity`
 
 <br>
 
