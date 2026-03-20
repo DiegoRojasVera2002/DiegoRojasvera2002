@@ -14,16 +14,17 @@
 
 ## `$ whoami`
 
-```python
-class DiegoRojas:
-    location     = "Lima, Peru 🇵🇪"
-    role         = "Software Engineer"
-    focus        = ["AI/ML", "Full-Stack", "Cloud Infrastructure"]
-    languages    = ["Python", "TypeScript", "Rust", "Go", "C++"]
-    os           = "Fedora Linux 🐧"  # btw
-    currently    = "Building scalable AI-powered systems"
-    open_source  = True
-    coffee       = float("inf")
+```bash
+# > whoami
+
+  location     = "Lima, Peru 🇵🇪"
+  role         = "Software Engineer"
+  focus        = ["AI/ML", "Full-Stack", "Cloud Infrastructure"]
+  languages    = ["Python", "TypeScript", "Rust", "Go", "C++"]
+  os           = "Fedora Linux 🐧"  # btw
+  currently    = "Building scalable AI-powered systems"
+  open_source  = true
+  coffee       = Infinity
 ```
 
 ---
