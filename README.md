@@ -14,18 +14,16 @@
 
 ## `$ whoami`
 
-```bash
-# > whoami
+<br>
 
-  location     = "Lima, Peru 🇵🇪"
-  role         = "Software Engineer"
-  focus        = ["AI/ML", "Full-Stack", "Cloud Infrastructure"]
-  languages    = ["Python", "TypeScript", "Rust", "Go", "C++"]
-  os           = "Fedora Linux 🐧"  # btw
-  currently    = "Building scalable AI-powered systems"
-  open_source  = true
-  coffee       = Infinity
-```
+### 📍 Lima, Peru &nbsp;🇵🇪
+### 💼 Software Engineer — AI/ML · Full-Stack · Cloud
+### 💻 Python · TypeScript · Rust · C++
+### 🐧 Fedora Linux &nbsp;·&nbsp; Open Source contributor
+### 🚀 Currently building scalable AI-powered systems
+### ☕ Coffee intake: `Infinity`
+
+<br>
 
 ---
 
