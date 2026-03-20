@@ -95,19 +95,6 @@
 
 ---
 
-## `$ cat contribution_graph.svg`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoRojasVera2002/DiegoRojasVera2002/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoRojasVera2002/DiegoRojasVera2002/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/DiegoRojasVera2002/DiegoRojasVera2002/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
