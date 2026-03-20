@@ -17,11 +17,17 @@
 <br>
 
 ### 📍 Lima, Peru &nbsp;🇵🇪
-### 💼 Software Engineer — AI/ML · Full-Stack · Cloud
+### 💼 AI Engineer — Multi-agent systems · RAG · LLM inference
 ### 💻 Python · TypeScript · Rust · C++
-### 🐧 Fedora Linux &nbsp;·&nbsp; Open Source contributor
-### 🚀 Currently building scalable AI-powered systems
-### ☕ Coffee intake: `Infinity`
+### 🐧 Fedora Linux &nbsp;·&nbsp; Open Source enthusiast
+### 🚀 Currently building scalable AI-powered systems @ Indra
+### ♟️ Chess player &nbsp;·&nbsp; DSA nerd &nbsp;·&nbsp; ☕ Coffee intake: `Infinity`
+
+<br>
+
+> Passionate about AI, Computer Science, and open source. I believe the best way to learn is to build in public —
+> most of my side projects live here. Certified **Google TensorFlow Developer** and active contributor to the ML
+> community in Latin America as founder of **TensorFlow User Group Lima**.
 
 <br>
 
